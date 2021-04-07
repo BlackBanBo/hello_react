@@ -1,0 +1,33 @@
+.body{
+    background-color: rgb(246,247,251);
+    padding: 3%;
+  }
+  .row1{
+    margin-bottom: 4%;
+  }
+  .row2{
+    margin-bottom: 2%;
+  }
+  .row1col{
+    height: 11vh;
+    background-color: #fff;
+    box-shadow: 0px 0px 20px 1px rgb(207,222,252);
+    border-radius: 4px;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+  }
+  .row2col{
+    height: 273px;
+    background-color: 'red';
+    box-shadow: 2px 2px 10px rgb(207,222,252);
+    padding: 10px 20px;
+  }
+  .chartTitle{
+    font-size: 25px;
+    color: #333;
+    font-family: PingFangSC-Semibold, sans-serif;
+  }
+  
+  
+  
